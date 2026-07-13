@@ -599,6 +599,19 @@
     "imagePrompt": "World Humanitarian Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy World Humanitarian Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
+    "date": "26 Aug 2026",
+    "occasionName": "Milad un-Nabi",
+    "type": "named_occasion",
+    "tentative": false,
+    "caption": "Milad un-Nabi ki shubhkamnayein!\n\nईद मिलाद-उन-नबी की शुभकामनाएं!",
+    "hashtags": "#MiladUnNabi",
+    "fullPost": "Milad un-Nabi ki shubhkamnayein!\n\nईद मिलाद-उन-नबी की शुभकामनाएं!\n\n#MiladUnNabi",
+    "category": "festival",
+    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__MILAD_UN-NABI",
+    "imageSource": "ai_generate",
+    "imagePrompt": "Milad un-Nabi celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Milad un-Nabi\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
+  },
+  {
     "date": "28 Aug 2026",
     "occasionName": "Raksha Bandhan",
     "type": "named_occasion",
@@ -872,19 +885,6 @@
     "imagePrompt": "Bhai Dooj celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Bhai Dooj\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
-    "date": "13 Nov 2026",
-    "occasionName": "Chhath Puja",
-    "type": "named_occasion",
-    "tentative": false,
-    "caption": "Chhath Puja ki shubhkamnayein!\n\nछठ पूजा की हार्दिक शुभकामनाएं!",
-    "hashtags": "#ChhathPuja",
-    "fullPost": "Chhath Puja ki shubhkamnayein!\n\nछठ पूजा की हार्दिक शुभकामनाएं!\n\n#ChhathPuja",
-    "category": "festival",
-    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__CHHATH_PUJA",
-    "imageSource": "ai_generate",
-    "imagePrompt": "Chhath Puja celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Chhath Puja\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
-  },
-  {
     "date": "14 Nov 2026",
     "occasionName": "Children's Day",
     "type": "named_occasion",
@@ -896,6 +896,19 @@
     "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__CHILDRENS_DAY",
     "imageSource": "ai_generate",
     "imagePrompt": "Children's Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Children's Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
+  },
+  {
+    "date": "15 Nov 2026",
+    "occasionName": "Chhath Puja",
+    "type": "named_occasion",
+    "tentative": false,
+    "caption": "Chhath Puja ki shubhkamnayein!\n\nछठ पूजा की हार्दिक शुभकामनाएं!",
+    "hashtags": "#ChhathPuja",
+    "fullPost": "Chhath Puja ki shubhkamnayein!\n\nछठ पूजा की हार्दिक शुभकामनाएं!\n\n#ChhathPuja",
+    "category": "festival",
+    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__CHHATH_PUJA",
+    "imageSource": "ai_generate",
+    "imagePrompt": "Chhath Puja celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Chhath Puja\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
     "date": "19 Nov 2026",
@@ -922,19 +935,6 @@
     "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__GURU_NANAK_JAYANTI",
     "occasionImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_painting_of_Guru_Nanak_from_Baghdad%2C_Iraq_attributed_to_a_painter_by_the_name_of_Kamal-ud-din_Behzad_%281450-1535%29_of_Tabriz_01.jpg",
     "imageSource": "real_photo"
-  },
-  {
-    "date": "25 Nov 2026",
-    "occasionName": "Milad un-Nabi",
-    "type": "named_occasion",
-    "tentative": false,
-    "caption": "Milad un-Nabi ki shubhkamnayein!\n\nईद मिलाद-उन-नबी की शुभकामनाएं!",
-    "hashtags": "#MiladUnNabi",
-    "fullPost": "Milad un-Nabi ki shubhkamnayein!\n\nईद मिलाद-उन-नबी की शुभकामनाएं!\n\n#MiladUnNabi",
-    "category": "festival",
-    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__MILAD_UN-NABI",
-    "imageSource": "ai_generate",
-    "imagePrompt": "Milad un-Nabi celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Milad un-Nabi\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
     "date": "26 Nov 2026",

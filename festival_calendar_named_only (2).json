@@ -507,7 +507,7 @@
     "imagePrompt": "World Population Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy World Population Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
-    "date": "17 Jul 2026",
+    "date": "29 Jul 2026",
     "occasionName": "Guru Purnima",
     "type": "named_occasion",
     "tentative": false,
@@ -558,19 +558,7 @@
     "imageSource": "ai_generate",
     "imagePrompt": "Quit India Movement Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Quit India Movement Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
-  {
-    "date": "09 Aug 2026",
-    "occasionName": "Raksha Bandhan",
-    "type": "named_occasion",
-    "tentative": false,
-    "caption": "Happy Raksha Bandhan! Celebrating the bond of siblings.\n\nरक्षा बंधन की हार्दिक शुभकामनाएं!",
-    "hashtags": "#RakshaBandhan",
-    "fullPost": "Happy Raksha Bandhan! Celebrating the bond of siblings.\n\nरक्षा बंधन की हार्दिक शुभकामनाएं!\n\n#RakshaBandhan",
-    "category": "festival",
-    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__RAKSHA_BANDHAN",
-    "imageSource": "ai_generate",
-    "imagePrompt": "Raksha Bandhan celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Raksha Bandhan\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
-  },
+  
   {
     "date": "12 Aug 2026",
     "occasionName": "International Youth Day",
@@ -586,12 +574,12 @@
   },
   {
     "date": "15 Aug 2026",
-    "occasionName": "Janmashtami / Independence Day",
+    "occasionName": "Independence Day",
     "type": "named_occasion",
     "tentative": false,
     "caption": "Happy Janmashtami! Jai Shri Krishna! Happy Independence Day! Jai Hind!\n\nजन्माष्टमी की हार्दिक शुभकामनाएं! स्वतंत्रता दिवस की हार्दिक शुभकामनाएं!",
-    "hashtags": "#Janmashtami #JaiShriKrishna #IndependenceDay #JaiHind",
-    "fullPost": "Happy Janmashtami! Jai Shri Krishna! Happy Independence Day! Jai Hind!\n\nजन्माष्टमी की हार्दिक शुभकामनाएं! स्वतंत्रता दिवस की हार्दिक शुभकामनाएं!\n\n#Janmashtami #JaiShriKrishna #IndependenceDay #JaiHind",
+    "hashtags": "#IndependenceDay #JaiHind",
+    "fullPost": "Happy Independence Day! Jai Hind! स्वतंत्रता दिवस की हार्दिक शुभकामनाएं!\n\n#IndependenceDay #JaiHind",
     "category": "festival",
     "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__JANMASHTAMI",
     "imageSource": "ai_generate",
@@ -611,17 +599,17 @@
     "imagePrompt": "World Humanitarian Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy World Humanitarian Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
-    "date": "26 Aug 2026",
-    "occasionName": "Ganesh Chaturthi",
+    "date": "28 Aug 2026",
+    "occasionName": "Raksha Bandhan",
     "type": "named_occasion",
     "tentative": false,
-    "caption": "Ganpati Bappa Morya! Happy Ganesh Chaturthi!\n\nगणेश चतुर्थी की हार्दिक शुभकामनाएं!",
-    "hashtags": "#GaneshChaturthi #GanpatiBappaMorya",
-    "fullPost": "Ganpati Bappa Morya! Happy Ganesh Chaturthi!\n\nगणेश चतुर्थी की हार्दिक शुभकामनाएं!\n\n#GaneshChaturthi #GanpatiBappaMorya",
+    "caption": "Happy Raksha Bandhan! Celebrating the bond of siblings.\n\nरक्षा बंधन की हार्दिक शुभकामनाएं!",
+    "hashtags": "#RakshaBandhan",
+    "fullPost": "Happy Raksha Bandhan! Celebrating the bond of siblings.\n\nरक्षा बंधन की हार्दिक शुभकामनाएं!\n\n#RakshaBandhan",
     "category": "festival",
-    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__GANESH_CHATURTHI",
+    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__RAKSHA_BANDHAN",
     "imageSource": "ai_generate",
-    "imagePrompt": "Lord Ganesha idol, traditional Indian sculpture style, elephant head deity, ornate decoration, festive colors, divine aura, the text \"Happy Ganesh Chaturthi\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
+    "imagePrompt": "Raksha Bandhan celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Raksha Bandhan\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
     "date": "29 Aug 2026",
@@ -636,6 +624,19 @@
     "imageSource": "ai_generate",
     "imagePrompt": "National Sports Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy National Sports Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
+  {
+    "date": "04 Sep 2026",
+    "occasionName": "Krishna Janmashtami",
+    "type": "named_occasion",
+    "tentative": false,
+    "caption": "Celebrating the birth of Lord Krishna, the embodiment of love, wisdom and joy! Happy Janmashtami!\n\nश्री कृष्ण जन्माष्टमी की हार्दिक शुभकामनाएं!",
+    "hashtags": "#Janmashtami #KrishnaJanmashtami",
+    "fullPost": "Celebrating the birth of Lord Krishna, the embodiment of love, wisdom and joy! Happy Janmashtami!\n\nश्री कृष्ण जन्माष्टमी की हार्दिक शुभकामनाएं!\n\n#Janmashtami #KrishnaJanmashtami",
+    "category": "festival",
+    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__JANMASHTAMI",
+    "imageSource": "ai_generate",
+    "imagePrompt": "Krishna Janmashtami celebration, professional festive social media graphic, clean composition, vibrant peacock feather and blue-gold color palette, illustration of baby Krishna with flute and peacock feather motif, high quality illustration, the text \"Happy Janmashtami\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
+}
   {
     "date": "05 Sep 2026",
     "occasionName": "Teachers' Day",
@@ -661,6 +662,19 @@
     "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__INTERNATIONAL_LITERACY_DAY",
     "imageSource": "ai_generate",
     "imagePrompt": "International Literacy Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy International Literacy Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
+  },
+  {
+    "date": "14 Sep 2026",
+    "occasionName": "Ganesh Chaturthi",
+    "type": "named_occasion",
+    "tentative": false,
+    "caption": "Ganpati Bappa Morya! Happy Ganesh Chaturthi!\n\nगणेश चतुर्थी की हार्दिक शुभकामनाएं!",
+    "hashtags": "#GaneshChaturthi #GanpatiBappaMorya",
+    "fullPost": "Ganpati Bappa Morya! Happy Ganesh Chaturthi!\n\nगणेश चतुर्थी की हार्दिक शुभकामनाएं!\n\n#GaneshChaturthi #GanpatiBappaMorya",
+    "category": "festival",
+    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__GANESH_CHATURTHI",
+    "imageSource": "ai_generate",
+    "imagePrompt": "Lord Ganesha idol, traditional Indian sculpture style, elephant head deity, ornate decoration, festive colors, divine aura, the text \"Happy Ganesh Chaturthi\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
     "date": "15 Sep 2026",
@@ -793,7 +807,7 @@
     "imagePrompt": "Dussehra celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy Dussehra\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
-    "date": "24 Oct 2026",
+    "date": "29 Oct 2026",
     "occasionName": "Karva Chauth / United Nations Day",
     "type": "named_occasion",
     "tentative": false,
@@ -819,7 +833,7 @@
     "imageSource": "real_photo"
   },
   {
-    "date": "07 Nov 2026",
+    "date": "06 Nov 2026",
     "occasionName": "Dhanteras / National Cancer Awareness Day",
     "type": "named_occasion",
     "tentative": false,

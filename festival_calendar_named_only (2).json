@@ -468,19 +468,6 @@
     "imagePrompt": "International Yoga Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy International Yoga Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
   {
-    "date": "26 Jun 2026",
-    "occasionName": "Rath Yatra",
-    "type": "named_occasion",
-    "tentative": false,
-    "caption": "Jagannath Rath Yatra ki shubhkamnayein!\n\nरथ यात्रा की हार्दिक शुभकामनाएं!",
-    "hashtags": "#RathYatra",
-    "fullPost": "Jagannath Rath Yatra ki shubhkamnayein!\n\nरथ यात्रा की हार्दिक शुभकामनाएं!\n\n#RathYatra",
-    "category": "festival",
-    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__RATH_YATRA",
-    "imageSource": "ai_generate",
-    "imagePrompt": "Jagannath Rath Yatra festival, giant ornate wooden chariot with colorful canopy, traditional Indian temple festival, devotional procession, vibrant red and yellow decoration, festive crowd atmosphere, the text \"Happy Rath Yatra\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
-  },
-  {
     "date": "01 Jul 2026",
     "occasionName": "National Doctor's Day",
     "type": "named_occasion",
@@ -506,6 +493,19 @@
     "imageSource": "ai_generate",
     "imagePrompt": "World Population Day celebration, professional festive social media graphic, clean composition, vibrant colors, high quality illustration, the text \"Happy World Population Day\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
   },
+  {
+    "date": "16 Jul 2026",
+    "occasionName": "Jagannath Rath Yatra",
+    "type": "named_occasion",
+    "tentative": false,
+    "caption": "Wishing you strength, devotion and divine blessings on the sacred journey of Lord Jagannath! Happy Rath Yatra!\n\nजगन्नाथ रथ यात्रा की हार्दिक शुभकामनाएं!",
+    "hashtags": "#RathYatra #JagannathRathYatra",
+    "fullPost": "Wishing you strength, devotion and divine blessings on the sacred journey of Lord Jagannath! Happy Rath Yatra!\n\nजगन्नाथ रथ यात्रा की हार्दिक शुभकामनाएं!\n\n#RathYatra #JagannathRathYatra",
+    "category": "festival",
+    "templateUid": "PASTE_BANNERBEAR_TEMPLATE_UID__RATH_YATRA",
+    "imageSource": "ai_generate",
+    "imagePrompt": "Jagannath Rath Yatra celebration, professional festive social media graphic, clean composition, vibrant red yellow and black color palette representing Lord Jagannath, illustration of decorated wooden chariot with devotees, high quality illustration, the text \"Happy Rath Yatra\" displayed prominently at the bottom in bold clean white sans-serif font, large clear legible letters, simple typography, no spelling errors, professional banner design"
+}
   {
     "date": "29 Jul 2026",
     "occasionName": "Guru Purnima",
